@@ -10,4 +10,4 @@ This repository contains C programs that I have written during my college course
 ## How to Run  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/your-username/C-Programming-Projects.git
+   git clone https://github.com/ParasGupta-BCA/C-Programming-Projects.git
