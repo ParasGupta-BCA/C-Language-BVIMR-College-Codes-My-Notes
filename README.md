@@ -1,5 +1,4 @@
-# C Programming Projects 🚀
-
+# C-Language-BVIMR-College-Codes-My-Notes 🚀
 This repository contains C programs that I have written during my college coursework. It covers a wide range of topics from basic syntax to advanced concepts like:
 
 - **Basic Concepts**: Variables, Data Types, Loops, Functions  
