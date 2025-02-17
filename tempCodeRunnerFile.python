@@ -1,0 +1,32 @@
+week=int(input ("Enter A Week :"))
+if (week==1):{
+    print("\n Monday")
+}
+
+elif(week==2):{
+    print("\n Tuesday")
+}
+
+elif(week==3):{
+    print("\n Wednesday")
+}
+
+elif(week==4):{
+    print("\n Thursday")
+}
+
+elif(week==5):{
+    print("\n Friday")
+}
+
+elif(week==6):{
+    print("\n Saterday")
+}
+
+elif(week==7):{
+    print("\n Sunday")
+}
+
+else :
+    print("\nPlease enter any weekday number (1-7)")
+    
